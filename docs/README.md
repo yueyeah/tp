@@ -1,5 +1,5 @@
 # Duke
-
+hash
 {Give product intro here}
 
 Useful links:
